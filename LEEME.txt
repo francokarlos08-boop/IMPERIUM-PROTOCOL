@@ -1,0 +1,11 @@
+IMPERIUM PROTOCOL - Version web instalable (PWA) para publicar
+
+Cada persona que abra el enlace tiene sus propios datos, guardados solo en su dispositivo. Tu alojamiento solo sirve los archivos de la app.
+
+Publicar en GitHub Pages:
+1. Crea un repositorio publico y sube TODOS los archivos de esta carpeta (index.html en la raiz).
+2. Settings > Pages > Branch: main, carpeta / (root).
+3. Comparte el enlace que te den (https://TUUSUARIO.github.io/NOMBRE/).
+
+Instalar: Android (Chrome): Configuracion > "Instalar aplicacion" o menu > Instalar. iPhone (Safari): Compartir > "Anadir a pantalla de inicio".
+Cada persona debe exportar copias (Configuracion > Exportar copia JSON): borrar datos del navegador elimina los registros.
